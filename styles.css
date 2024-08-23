@@ -1,0 +1,10 @@
+body{
+    background: radial-gradient(circle at 10% 20%, rgb(255, 200, 124) 0%, rgb(252, 251, 121) 90%);
+}
+
+.art-img {
+    max-width: 25%;
+    height: auto; 
+    display: block; 
+    margin: 0 auto; 
+}
